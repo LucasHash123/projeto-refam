@@ -1,4 +1,16 @@
-# ProjectRefam
+# Instituto REFAM
+<p align="center" style="border:  border-radius: 8px;">
+<img src="https://cdn.discordapp.com/attachments/493296689357258763/1193333287943405638/Design_sem_nome_3.png?ex=65ac553a&is=6599e03a&hm=d566c360571f31c967964c456fdf90ccff261635053958d57bb39a847b91c989&" width="450" height="350" alt="Exemplo imagem">
+</p>
+
+---
+
+![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
 
