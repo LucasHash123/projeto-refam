@@ -1,9 +1,4 @@
 # Instituto REFAM
-<p align="center" style="border:  border-radius: 8px;">
-<img src="https://cdn.discordapp.com/attachments/493296689357258763/1193333287943405638/Design_sem_nome_3.png?ex=65ac553a&is=6599e03a&hm=d566c360571f31c967964c456fdf90ccff261635053958d57bb39a847b91c989&" width="450" height="350" alt="Exemplo imagem">
-</p>
-
----
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
@@ -11,6 +6,26 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
+---
+
+<p align="center" style="border:  border-radius: 8px;">
+<img src="https://cdn.discordapp.com/attachments/493296689357258763/1193333287943405638/Design_sem_nome_3.png?ex=65ac553a&is=6599e03a&hm=d566c360571f31c967964c456fdf90ccff261635053958d57bb39a847b91c989&" width="450" height="350" alt="Exemplo imagem">
+</p>
+
+> Projeto de Site para um instituto de ajuda a comunidade carente. Nele fala sobre como o projeto funciona e como a pessoa pode pedir ajuda ou fazer uma doação.
+
+---
+
+## Linguagens e Frameworks usados
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+</div>
+
+---
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
 
