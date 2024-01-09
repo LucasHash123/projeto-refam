@@ -5,8 +5,8 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
-import { SobreComponent } from './pages/sobre/sobre.component';
-import { ContatosComponent } from './pages/contatos/contatos.component';
+import { SobreComponent } from './home/sobre/sobre.component';
+import { ContatosComponent } from './home/contatos/contatos.component';
 
 @NgModule({
   declarations: [
