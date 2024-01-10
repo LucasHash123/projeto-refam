@@ -1,3 +1,8 @@
 .verde-musgo  {
     background: linear-gradient(rgb(168, 168, 236),rgb(104, 104, 216) ) ;
 }
+
+footer {
+    width: 100%;
+    bottom: 0;
+}
