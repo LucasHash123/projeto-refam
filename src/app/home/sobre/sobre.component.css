@@ -15,7 +15,8 @@ h1 {
     font-family: 'Lilita One', sans-serif;
 }
 
-section {
+.primeira {
     min-height: 82.9vh;
     margin: 0 auto -50px;
 }
+
