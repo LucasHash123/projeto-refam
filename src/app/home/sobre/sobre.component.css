@@ -1,17 +1,17 @@
-img {
-    border-radius: 110px 200px 150px 200px;
+#efeito-imagem {
+    border-radius: 110px 250px 180px 250px;
     transform-origin: center center;
     transition: transform 0.8s ease, border-radius 0.7s ease, box-shadow 4s ease; /* Transições separadas para transform, border-radius e box-shadow */
     box-shadow: rgba(121, 58, 231, 0.583) 5px 5px 40px 5px;
 }
 
-img:hover, img:focus {
+#efeito-imagem:hover, #efeito-imagem:focus {
     transform: translateX(0) scale(0.7);
     border-radius: 200px 100px 200px 100px;
     box-shadow: rgb(40, 1, 108) 40px 40px 300px 40px; /* Aumenta o tamanho da sombra durante o hover */
 }
 
-h1 {
+h1, h3, li {
     font-family: 'Lilita One', sans-serif;
 }
 
@@ -21,6 +21,9 @@ h1 {
 }
 
 li {
-    font-family: 'Lilita One', sans-serif;
     font-size: 25px;
+}
+
+.carousel-inner {
+    box-shadow: rgba(0, 0, 0, 0.841) 0px 5px 15px;
 }
