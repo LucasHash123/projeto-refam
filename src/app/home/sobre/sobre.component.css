@@ -1,3 +1,10 @@
+* {
+    animation:appear 1s ease-in-out;
+    animation-timeline: view(block);
+    animation-range: cover 0% cover 19%;
+    view-timeline-inset: 20%;
+}
+
 #efeito-imagem {
     border-radius: 110px 250px 180px 250px;
     transform-origin: center center;
@@ -26,4 +33,17 @@ li {
 
 .carousel-inner {
     box-shadow: rgba(0, 0, 0, 0.841) 0px 5px 15px;
+}
+
+
+@keyframes appear {
+    from {
+        opacity: 0;
+        clip-path: inset(45% 20% 45% 20%);
+    }
+
+    to {
+        opacity: 1;
+        clip-path: inset(0% 0% 0% 0%);
+    }
 }
