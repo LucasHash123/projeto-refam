@@ -1,8 +1,8 @@
-* {
+div, figure {
     animation:appear 1s ease-in-out;
     animation-timeline: view(block);
-    animation-range: cover 6% cover 19%;
-    view-timeline-inset: 20%;
+    animation-range: entry 0% cover 30%;
+    view-timeline-axis: 10%;
 }
 
 #efeito-imagem {
