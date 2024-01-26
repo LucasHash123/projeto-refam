@@ -23,7 +23,6 @@ h1, h3, li {
 }
 
 .primeira {
-    min-height: 82.9vh;
     margin: 0 auto -50px;
 }
 
@@ -46,4 +45,13 @@ li {
         opacity: 1;
         clip-path: inset(0% 0% 0% 0%);
     }
+}
+
+.circulo {
+    z-index: 1 !important;
+    position: absolute;
+}
+
+.ms-6 {
+    margin-left: 12rem !important;
 }
