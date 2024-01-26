@@ -55,3 +55,11 @@ li {
 .ms-6 {
     margin-left: 12rem !important;
 }
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    text-shadow: black 0.1em 0.1em 0.2em
+}

@@ -7,10 +7,14 @@ html {
 body {
     min-height: 100%;
     display: grid;
-    background: linear-gradient(90deg, rgb(121, 204, 255), rgb(82, 82, 255));
+    background: linear-gradient(90deg, rgb(57, 131, 176), rgb(121, 121, 255));
     grid-template-rows: 1fr auto;
 }
 
 p {
     font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    text-shadow: black 0.1em 0.1em 0.2em
 }
