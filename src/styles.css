@@ -7,7 +7,7 @@ html {
 body {
     min-height: 100%;
     display: grid;
-    background: linear-gradient(90deg, rgb(57, 131, 176), rgb(121, 121, 255));
+    background: linear-gradient(90deg, rgb(58, 136, 185), rgb(129, 129, 250));
     grid-template-rows: 1fr auto;
 }
 
