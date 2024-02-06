@@ -10,6 +10,7 @@
     text-shadow: rgba(0, 0, 0, 0.889) 0.1em 0.1em 0.2em
   }
 
+
   .navbar-nav {
     display: flex;
   }
@@ -46,8 +47,5 @@
   .link:hover::before,
   .link:hover::after {
     width: 100%; /* 100% para cobrir toda a largura do link */
-  }
-  
-  .link:hover {
-    color: #ffffff;
+    
   }
