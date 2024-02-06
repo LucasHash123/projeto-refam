@@ -83,6 +83,12 @@ p {
 
 }
 
+.cor-destaque2 {
+    color: rgb(26, 223, 26);
+    text-shadow: black 0.1em 0.1em 0.2em
+
+}
+
 .blob {
     width: 400px;
     height: 400px;
