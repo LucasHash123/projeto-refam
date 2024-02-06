@@ -103,6 +103,10 @@ p {
     object-fit: cover;
 }
 
+.fs-0 {
+    font-size: 60px !important;
+}
+
 @keyframes flow {
     
     0% {
