@@ -9,7 +9,7 @@ div, figure {
     border-radius: 110px 250px 180px 250px;
     transform-origin: center center;
     transition: transform 0.8s ease, border-radius 0.7s ease, box-shadow 4s ease; /* Transições separadas para transform, border-radius e box-shadow */
-    box-shadow: rgba(255, 84, 252, 0.583) 5px 5px 40px 5px;
+    box-shadow: rgba(84, 112, 255, 0.583) 5px 5px 40px 5px;
 }
 
 #efeito-imagem:hover, #efeito-imagem:focus {
@@ -65,8 +65,8 @@ p {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-style: italic;
-    color: rgb(255, 255, 255);
-    text-shadow: black 0.1em 0.1em 0.2em
+    color: #444444;
+    text-shadow: rgba(0, 0, 0, 0) 0.1em 0.1em 0.2em
 }
 
 .fonte-texto {
@@ -121,4 +121,8 @@ p {
     100% {
         border-radius: 60% 40% 40% 60% / 60% 40% 60% 40%;
     }
+}
+
+.cor-fundo {
+    background: linear-gradient(90deg, rgba(231, 231, 231, 0.802), rgba(207, 223, 253, 0.802),  rgba(231, 231, 231, 0.802)) !important;
 }

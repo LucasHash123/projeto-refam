@@ -56,3 +56,14 @@ svg {
   font-size: 18px;
   font-weight: 100;
 }
+
+.setas-img {
+  width: 100%;
+  height: auto;
+  filter: brightness(1) hue-rotate(0deg); /* Define a cor inicial da imagem (branca) */
+  transition: filter 0.3s ease-in-out;
+}
+
+.btn:hover .setas-img {
+  filter: brightness(1) hue-rotate(90deg); /* Ajuste a rotação para obter a cor verde desejada ao passar o mouse */
+}
