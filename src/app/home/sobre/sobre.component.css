@@ -1,4 +1,6 @@
-div, figure {
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500&display=swap');
+
+figure {
     animation:appear 1s ease-in-out;
     animation-timeline: view(block);
     animation-range: entry 0% cover 30%;
@@ -15,7 +17,7 @@ div, figure {
 #efeito-imagem:hover, #efeito-imagem:focus {
     transform: translateX(0) scale(0.7);
     border-radius: 200px 100px 200px 100px;
-    box-shadow: rgb(135, 39, 169) 40px 40px 300px 40px; /* Aumenta o tamanho da sombra durante o hover */
+    box-shadow: rgb(34, 181, 154) 40px 40px 300px 40px; /* Aumenta o tamanho da sombra durante o hover */
 }
 
 h1, h3, li {
@@ -126,3 +128,30 @@ p {
 .cor-fundo {
     background: linear-gradient(90deg, rgba(231, 231, 231, 0.802), rgba(207, 223, 253, 0.802),  rgba(231, 231, 231, 0.802)) !important;
 }
+
+ .h3-painel {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    color: #393939 !important;
+}
+
+.p-painel {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    color: rgb(145, 145, 145);
+}
+
+.bg-painel {
+    background: linear-gradient(90deg,  rgba(119, 212, 255, 0.149),  rgba(255, 255, 255, 0.355),  rgba(119, 212, 255, 0.149));
+    /* background: rgba(255, 255, 255, 0.441); */
+    box-shadow: 0 1px 32px 1px rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 6px );
+    -webkit-backdrop-filter: blur( 6px );
+    border-radius: 10px;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+.text-lilas {
+    color: rgb(108, 108, 255);
+}
+
