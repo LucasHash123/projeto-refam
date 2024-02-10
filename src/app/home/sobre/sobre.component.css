@@ -26,7 +26,7 @@ h1, h3, li {
 
 h2 {
     font-family: 'DM Sans', sans-serif;
-    text-shadow: rgba(7, 7, 7, 0.404) 0.1em 0.1em 0.2em
+    /* text-shadow: rgba(7, 7, 7, 0.404) 0.1em 0.1em 0.2em */
 }
 
 .primeira {
@@ -81,7 +81,7 @@ p {
 
 .cor-destaque {
     color: rgb(3, 179, 233);
-    text-shadow: black 0.1em 0.1em 0.2em
+    /* text-shadow: black 0.1em 0.1em 0.2em */
 
 }
 
@@ -155,3 +155,6 @@ p {
     color: rgb(108, 108, 255);
 }
 
+.icones {
+    color: rgb(108, 108, 255);
+}
