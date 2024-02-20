@@ -14,6 +14,18 @@ h3, h4 {
     font-family: 'Lilita One', sans-serif;
 }
 
+h3 {
+    font-family: 'DM Sans', sans-serif;
+}
+
+h4 {
+    color: rgb(108, 108, 255);
+}
+
+p {
+    color: black;
+}
+
 @keyframes images {
     from {
         opacity: 0;
@@ -28,4 +40,8 @@ h3, h4 {
 
 .sombra-verde {
     box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px !important;
+}
+
+.cor-fundo {
+    background: linear-gradient(90deg, rgba(231, 231, 231, 0.802), rgba(207, 223, 253, 0.802),  rgba(231, 231, 231, 0.802)) !important;
 }
