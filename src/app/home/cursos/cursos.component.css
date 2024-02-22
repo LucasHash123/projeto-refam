@@ -1,14 +1,27 @@
-.revealing-image {
+/* .revealing-image {
     view-timeline-name: --revealing-images;
     view-timeline-axis: block;
     animation: linear images both;
     animation-timeline: --revealing-images;
     animation-range: entry 30% cover 30%;
-}
+} */
 
-figure {
+.img-cor1 {
     box-shadow: rgba(0, 255, 145, 0.3) 30px 4px 30px -4px;
 }
+
+.img-cor2 {
+    box-shadow: rgba(241, 46, 255, 0.3) 30px 4px 30px -4px;
+}
+
+.img-cor3 {
+    box-shadow: rgba(255, 231, 46, 0.3) 30px 4px 30px -4px;
+}
+
+.img-cor4 {
+    box-shadow: rgba(60, 170, 255, 0.3) 30px 4px 30px -4px;
+}
+
 
 h3, h4 {
     font-family: 'Lilita One', sans-serif;
